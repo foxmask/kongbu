@@ -15,8 +15,8 @@ tags:
 
 ## Expressions - 표현
 
-* Expressing intentions: 의도  표횬하기
-* Expressing simultaneous actions: 동시 동작  표횬하기
+* Expressing intentions: 의도  표현하기
+* Expressing simultaneous actions: 동시 동작  표현하기
 * Suggesting solutions:  헤결 방안 제시하기
 * Reminding others about what they already know:  상대방이 알고 있는 사실 상기시키기
 
