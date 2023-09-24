@@ -121,13 +121,11 @@ tags: 정보
 
 ### A-다 , V- ㄴ 다/는다    N(이)다
 
-utiliser pour donner des explications sur un etat
-
+utiliser pour donner des explications sur un état
 
 ### A/V-았/었다  N-였다/이었다
 
-"etat" au passé
-
+"état" au passé
 
 ### V-(으)ㄹ 것이다  V-겠다
 

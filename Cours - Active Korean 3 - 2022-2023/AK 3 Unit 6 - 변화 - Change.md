@@ -102,7 +102,7 @@ Tags: 변화
 
 ### A/V- 네요
 
-exprime un nouveau fait decouvert par celui qui parle
+exprime un nouveau fait découvert par celui qui parle
 
 날씨가 춥네요
 
@@ -114,7 +114,7 @@ ajouter à un **adjectif**, exprime un changement
 
 ### V-게 되다
 
-Ajouter a un **verbe**, exprime un changement
+Ajouter à un **verbe**, exprime un changement
 
 가다 -> 가게 되다
 

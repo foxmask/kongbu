@@ -109,7 +109,7 @@ Tags: 취업
 
 discours à la forme formelle p 44 & 45
 
-### present formel
+### présent formel
 
 - A/V -ㅂ/습니다
 - N -입니다

@@ -99,13 +99,13 @@ discourt indirect pour une proposition. utiliser apres la racine du verbe
 suggère poliment de faire qqchose
 
 ### V-(으)라고 하다
-discourt indirect pour une phrase impérative. utiliser apres la racine du verbe
+discourt indirect pour une phrase impérative. utiliser après la racine du verbe
 
 ### V-지 말라고 하다
-discourt indirect pour une phrase impérative **NEGATIVE** . utiliser apres la racine du verbe
+discourt indirect pour une phrase impérative **NEGATIVE** . utiliser après la racine du verbe
 
 ### ~ 냐고 하다
-discourt indirect. dire à qqun ce qu'un autre a **DEMANDE**. utiliser apres la racine du verbe
+discourt indirect. dire à qqun ce qu'un autre a **DEMANDE**. utiliser après la racine du verbe
 
 ## Additional Expressions
 
