@@ -9,10 +9,8 @@ tags:
 ---
 
 [TOC]
-
 ```toc
 ```
-
 ## Vocabulary - 어휘
 
 * describing outfit : 옷차림 표현하기
@@ -29,24 +27,20 @@ tags:
 | 영말       | socks           |
 | 스카프       | scarf           |
 | 반지       | ring            |
-| 귀걸이       | earnings        |
+| 귀걸이       | earings        |
 | 머리띠       | headband        |
 | 원피스       | one piece dress |
-|        |                 |
-
 
 ### Dressing verbs
 
 | Coréen | Français                   |
 | ------ | -------------------------- |
-| 신다       | to wear shoes              |
+| 하다       | to wear earings, necklace |
 | 끼다       | to wear gloves, glasses    |
-| 차다       | to wear a watch            |
-| 하다       | to wear earnings, necklace |
-| 들다       | to hold a bag              |
 | 메다       | to carry on shoulder       |
-
-
+| 차다       | to wear a watch            |
+| 들다       | to hold a bag              |
+| 신다       | to wear shoes              |
 
 ### Color adjectives
 
@@ -57,8 +51,6 @@ tags:
 | 파랗다       | bleu     |
 | 까맣다       | noir     |
 | 하얗다       | blanc    |
-|        |          |
-
 
 ### Vocabulary related to appearances
 
@@ -70,7 +62,6 @@ tags:
 | 쌍까풀       | double eyelid |
 | 입술       | levres        |
 | 점       | bouton              |
-
 
 ### Vocabulary related to personality
 
@@ -101,7 +92,6 @@ tags:
 | 찾다       | trouver                        |
 | 지내다       | passer du temps à faire qqchose                               |
 
-
 ### Adjectives
 
 | Coréen | Français  |
@@ -124,22 +114,21 @@ tags:
 | 혹시       | peut-etre |
 | 조용히       | tranquillement, calmement          |
 
-
 ### Worlds that go together
 
 | Coréen | Français        |
 | ------ | --------------- |
-| 성격이 급하다       | hativement      |
-| 속이 좁다       | etroit d'esprit |
+| 성격이 급하다       |  pressé      |
+| 성격이 밝다 | rayonnant |
+| 속이 좁다       | etroit d'esprit, mesquin |
 | 마음이 넓다       | large d'esprit  |
-| 말이 없다       | silence         |
-| 말을 잘 듣다       | obéïssant       |
+| 말이 없다       | silencieux         |
+| 말을 잘 듣다       | être à l'écoute de qq1    |
 | 그저 그렇다        |     couci couca            |
-
 
 ## Grammaire
 
-### V-고 있다
+### V-==고 있다==
 
 utiliser pour combiner avec des verbes pour porter des habits / bijoux  : 입다, 쓰다, 신다, 끼다, 벗다 ...  le résultat de l'action continue dans le présent
 
@@ -147,11 +136,47 @@ utiliser pour combiner avec des verbes pour porter des habits / bijoux  : 입다
 
 signifie "n'est pas" ou "ne sont pas"
 
-### A-아/어 보이다
+### A-아/어 ==보이다==
 
 utiliser pour deviner ou exprimer une perception d'une personne ou d'une chose au première coup d'oeil
 
-### S-(으)ㄴ/는데 S (contrast)
+" Être vu " A est vu comme B. Page 246 247 du livre "les bases du coréen "
+
+승규가 앉아 있는 소파는 무척 편안해 ==보여==요.
+
+Exemple d'utilisation  de ==[아/어 보이다](https://www.topikguide.com/a-%EC%95%84-%EC%96%B4-%EC%97%AC-%EB%B3%B4%EC%9D%B4%EB%8B%A4-korean-grammar/)==
+
+### Caractère
+| Coréen               | Français                   |
+| -------------------- | -------------------------- |
+| 외롭다     기분이 외로워 보여요          | solitaire                  |
+| 한가하다             | relaxer                    |
+| 무겁다               | lourd                      |
+| 건강하다             | en bonne santé             |
+| 조용하다             | silencieux                 |
+| 게으르다             | faineant                   |
+| 꼼꼼하다             | méticuleux                 |
+| 착하다               | sage / gentil              |
+| 느긋하다             | détendu                    |
+| 기분이 좋 보여요     | Heureux                    |
+| 기분이 나파 보여요   | Pas content                |
+| 기분이 무서워 보여요 | Peur                       |
+| 기분이 슬퍼 보여요   | triste                     |
+| 기분이 바빠 보여요   | occupé                     |
+| 기분이 피곤해 보여요       | fatigué                    |
+| 기분이 한가해 보여요                     | paisible                   |
+| 내성전이다           | timide                     |
+| 부지런하다                     | diligent appliqué soigneux |
+| 성격이 좋다/안 좋다                     | bon/mauvais caractère      |
+| 성격이 고약하다                    | méchant                    |
+| 성격이 저극적이다                    | dynamique                  |
+| 성격이 낙천적이다                    | optimiste                  |
+| 성격이 까다롭다                    | être difficile             |
+| 와향전이다           | extraverti                 |
+| 급하다               | presse                     |
+
+
+### S-(으)ㄴ/는데 S (contraire)
 
 utiliser pour combiner 2 phrases contradictoires
 
@@ -172,6 +197,7 @@ quand la fin commence par -으- est ajouté, ㅎ sont supprimés et le -으-  à
 
 exemple  노랗다 + (으)ㄴ -> 노란
 
+Voir livre grammaire p 339 à 343
 
 ## Additional Expressions
 

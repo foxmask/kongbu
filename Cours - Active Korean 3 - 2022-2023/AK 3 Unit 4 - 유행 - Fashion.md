@@ -115,6 +115,9 @@ pour modifier un nom en verbe au présent
 
 다니다 = aller frequement / frequenter (ecole / travail)
 
+L'école que fréquente jemin est l'université de Séoul
+
+Xxxx que / qui yyy est zzz
 
 
 ### A-게
@@ -166,4 +169,3 @@ est utilisé à la premiere personne pour exprimer l'intention de celui qui parl
 | 머리를 감다     | to wash one's hair            |
 | 머리를 말리다   | to dr²y one's hair            |
 | 화장을 하다     | to put on makeup              |
-

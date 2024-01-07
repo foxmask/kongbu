@@ -184,7 +184,7 @@ et toi / vous ?
 
 utilisé pour dire si on a deja fait **l'experience** de "V"
 
-https://korean.stackexchange.com/questions/1926/what-is-the-difference-between-v%ec%9c%bc%e3%84%b4-%ec%a0%81%ec%9d%b4-%ec%9e%88%eb%8b%a4-and-v%ec%95%84-%ec%96%b4-%eb%b3%b4%eb%8b%a4#1927
+==[-(으)ㄴ 적(이) 있다/업다](https://korean.stackexchange.com/questions/1926/what-is-the-difference-between-v%ec%9c%bc%e3%84%b4-%ec%a0%81%ec%9d%b4-%ec%9e%88%eb%8b%a4-and-v%ec%95%84-%ec%96%b4-%eb%b3%b4%eb%8b%a4#1927)==
 
 
 

@@ -3,8 +3,7 @@ title: "AK2 - Unit 4 우체국 La poste"
 author:
   - FoxMaSk
 date: 2020-09-02
-tags: 
-  - 우체국
+tags:  우체국 일 compter jours
 ---
 
 ```toc
@@ -31,7 +30,7 @@ tags:
 | Coréen | Français               |
 | ------ | ---------------------- |
 |    보내다    | to send / to mail      |
-| 소포       | un packet       |
+| 소포       | un paquet       |
 | 편지       | une lettre                 |
 | 부치다       | to send / to mail |
 | 엽서       | une carte postale      |
@@ -94,7 +93,7 @@ tags:
 
 In Korea you should write the address in order of district size, from the large district to smaller district on the envelope ᅟ
 
-### another way to count days
+### another way to count days compter les jours 
 * name / number / counting days
 * one day / 일 일 / 하루
 * two days / 이 일 / 이들
@@ -103,4 +102,3 @@ In Korea you should write the address in order of district size, from the large 
 * five days/ 오 일 / 닷새
 * ten days/ 십 일 / 열흘
 * fifteen days/ 십오 일 /  보름
-
