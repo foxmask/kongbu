@@ -56,7 +56,7 @@ tags:
 | 도둑하다 | to get robbed |
 | 눕다 | to lie down |
 | 닫히다 | to be shut |
-| 걸리다 | to be hung  |
+| 걸리다 | to be hung / se faire attraper / prendre du temps|
 | 열리다 | to be opened |
 | 놓이다 | to be put |
 | 닦다 | to wipe |

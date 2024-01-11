@@ -176,3 +176,13 @@ shopping sur internet
 ### Genevieve
 
 ![](2023-12-16-dans-5ans-Genevieve.png)
+
+## 2024-01-06
+
+![](2024_01_06_comprehension_de_texte_2.png)
+![](2024_01_06_comprehension_de_texte_1.png)
+
+
+![](2024_01_06_comprehension_audio_1.png)
+
+![](2024_01_06_comprehension_audio_2.png)
