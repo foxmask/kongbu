@@ -184,6 +184,9 @@ utiliser pour combiner 2 phrases contradictoires
 -는 데 ajouté à un verbe 
 -았/었는데 utilisé pour V et A au passé.
 
+![](AK%204%20Unit%201%20-%202023_10_14_regle_는데.png)
+
+
 ### ㅎ irregular adjectives
 
 la racine des adjectifs finissant pas ㅎ sont supprimés et finissent par  아/어
@@ -198,7 +201,8 @@ quand la fin commence par -으- est ajouté, ㅎ sont supprimés et le -으-  à
 exemple  노랗다 + (으)ㄴ -> 노란
 
 Voir livre grammaire p 339 à 343
-
+![](AK%204%20Unit%201%20-%202023_10_14_regle_고.png)
+![](AK%204%20Unit%201%20-%202023_10_14_regle_아서.png)
 ## Additional Expressions
 
 expressions familières liées à la personnalité

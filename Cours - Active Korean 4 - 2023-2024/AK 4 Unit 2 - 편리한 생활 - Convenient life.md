@@ -93,6 +93,9 @@ ajouté pour indiquer que la personne à l'intention de faire qqchose
 
 ce weekend je prévois d'aller voir un film
 
+![](2023-12-02-려고-1.png)
+![](2023-12-02-려고-2.png)
+
 ### V-(으)면서
 
 pour indiquer que les 2 propositions arrivent en même temps

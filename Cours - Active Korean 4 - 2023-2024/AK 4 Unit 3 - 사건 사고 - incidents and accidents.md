@@ -29,11 +29,11 @@ tags:
 | ---- | ---- |
 | 사건  | incident |
 | 사고 | accident |
-| 사고리 | crossroad |
+| 사고리 | croisement de 4 routes (3 routes = 삼고리) |
 | 취소 | cancel |
-| 치료 | medical treatment |
+| 치료 | traitement médical |
 | 롤러코스터 | roller coaster |
-| 시속 | speed per hour |
+| 시속 | speed per hour - km/h |
 | 공중 | air |
 | 도둑 | thief |
 | 이 | tooth |
@@ -52,7 +52,7 @@ tags:
 | 당하다 | to be confronted with |
 | 토원하다 | to be discharged from the hospital |
 | 움직이다 | to move |
-| 서다 | to stand |
+| 서다 | to stand / arrêter |
 | 도둑하다 | to get robbed |
 | 눕다 | to lie down |
 | 닫히다 | to be shut |
@@ -73,7 +73,7 @@ tags:
 | ---- | ---- |
 | 간단하다 | simple |
 | 엉망이다 | messy |
-| 다행이다 | fortunate |
+| 다행이다 | fortunate ( the famous 다행하지 ) |
 
 ### Others
 
@@ -100,12 +100,17 @@ utiliser pour délivrer ou demander ce qui a été entendu par une autre personn
 * A - 맛있다 -> 맛있대(요)
 * V - voyelle 가다 -> 간대요
 * V - consonne 먹다 -> 먹는대요
+
+![](AK%204%20Unit%203%20-%202024-01-13_대%20요_1.png)
+![](AK%204%20Unit%203%20-%202024-01-13_대%20요_2.png)
 #### passé 았/었어대요
 
 A - 좋았다 -> 좋았대요 
 V - 먹었다 -> 먹었대요 
 
 민수 씨가 교통사고가 났다고 해요 -> 민수 씨가 교통사고가 났대요 
+
+![](AK%204%20Unit%203%20-%202024-01-13_대%20요_3.png)
 
 ### V-아/어 있다
 
