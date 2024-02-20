@@ -7,6 +7,7 @@ tags:
   - 사건
   - 사고
 ---
+# AK 4 Unit 3 - 사건 사고 - incidents and accidents
 
 [TOC]
 ```toc
@@ -23,7 +24,7 @@ tags:
 
 ## Vocabulary - 어휘
 
-### Nouns
+## Nouns
 
 | Coréen | Français |
 | ---- | ---- |
@@ -43,7 +44,7 @@ tags:
 | 검사 | examination |
 | 신호 | signal |
 
-### Verbs
+## Verbs
 
 | Coréen | Français |
 | ---- | ---- |
@@ -67,7 +68,7 @@ tags:
 | 계산하다 | to pay |
 | 두다 | to place/to put |
 
-### Adjectives
+## Adjectives
 
 | Coréen | Français |
 | ---- | ---- |
@@ -75,7 +76,7 @@ tags:
 | 엉망이다 | messy |
 | 다행이다 | fortunate ( the famous 다행하지 ) |
 
-### Others
+## Others
 
 | Coréen | Français |
 | ---- | ---- |
@@ -84,26 +85,26 @@ tags:
 | 자세히 | specifically |
 | 아까 | a while ago / a moment ago |
 
-### Worlds that go together
+## Worlds that go together
 
 | Coréen | Français |
 | ---- | ---- |
 | 문을 닫다 | to close a store |
 
-## Grammaire
+# Grammaire
 
-### ~ 대 (요) (forme courte de ~다고 해여)
+## ~ 대 (요) (forme courte de ~다고 해여)
 
 utiliser pour délivrer ou demander ce qui a été entendu par une autre personne
 
-#### présent
+### présent
 * A - 맛있다 -> 맛있대(요)
 * V - voyelle 가다 -> 간대요
 * V - consonne 먹다 -> 먹는대요
 
 ![](AK%204%20Unit%203%20-%202024-01-13_대%20요_1.png)
 ![](AK%204%20Unit%203%20-%202024-01-13_대%20요_2.png)
-#### passé 았/었어대요
+### passé 았/었어대요
 
 A - 좋았다 -> 좋았대요 
 V - 먹었다 -> 먹었대요 
@@ -112,19 +113,19 @@ V - 먹었다 -> 먹었대요
 
 ![](AK%204%20Unit%203%20-%202024-01-13_대%20요_3.png)
 
-### V-아/어 있다
+## V-아/어 있다
 
 est ajouté au radical du verbe pour montrer le résultat de la dernière action qui continue jusqu'à maintenant
 
-### V-고 나서
+## V-고 나서
 
 est ajouté au radical du verbe pour exprimer qu'après une action, une autre action ou situation se produit
 
-### ~ 지 알다/모르다
+## ~ 지 알다/모르다
 
 ajouté à un mot interrogatif pour demander ou répondre si un autre sait ou non qqchose
 
-## Additional Expressions
+# Additional Expressions
 
 | Coréen | Français |
 | ---- | ---- |

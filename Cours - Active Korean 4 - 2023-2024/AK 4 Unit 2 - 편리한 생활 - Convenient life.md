@@ -7,20 +7,20 @@ tags:
   - 편리한
   - 생활
 ---
-
+# AK 4 Unit 2 - 편리한 생활 - Convenient life
 [TOC]
 ```toc
 ```
-## Expressions - 표현
+# Expressions - 표현
 
 * Expressing intentions: 의도 표현하기
 * Expressing simultaneous actions: 동시 동작 표현하기
 * Suggesting solutions:  헤결 방안 제시하기
 * Reminding others about what they already know:  상대방이 알고 있는 사실 상기시키기
 
-## Vocabulary - 어휘
+# Vocabulary - 어휘
 
-### vocabulary related to tools
+## vocabulary related to tools
 
 | Coréen | Français           |
 | ------ | ------------------ |
@@ -59,7 +59,7 @@ tags:
 | 나이       | age                  |
 | 제뭄       | produit              |
 | 소식 | les news |
-### Verbes
+## Verbes
 
 | Coréen | Français             |
 | ------ | -------------------- |
@@ -70,22 +70,22 @@ tags:
 |  잊어버리다      | oublier              |
 |  걸다      | faire un appel       |
 
-### Autres
+## Autres
 
 | Coréen | Français                 |
 | ------ | ------------------------ |
 | 직접   | en personne, directement |
 | 전자       | ancien                          |
 
-### Worlds that go together
+## Worlds that go together
 
 | Coréen | Français |
 | ------ | -------- |
 | 전화를 걸다       | faire un appel         |
 
-## Grammaire
+# Grammaire
 
-### V-(으)려고 하다
+## V-(으)려고 하다
 
 ajouté pour indiquer que la personne à l'intention de faire qqchose
 
@@ -93,10 +93,11 @@ ajouté pour indiquer que la personne à l'intention de faire qqchose
 
 ce weekend je prévois d'aller voir un film
 
-![](2023-12-02-려고-1.png)
-![](2023-12-02-려고-2.png)
+![](Cours/Unit 2/2023-12-02-려고-1.png)
 
-### V-(으)면서
+![](Cours/Unit 2/2023-12-02-려고-2.png)
+
+## V-(으)면서
 
 pour indiquer que les 2 propositions arrivent en même temps
 
@@ -104,7 +105,7 @@ pour indiquer que les 2 propositions arrivent en même temps
 
 je conduis + j'écoute la musique = en conduisant j'écoute la musique
 
-### V-(으)면 되다
+## V-(으)면 되다
 
 signifie "c'est ok / c'est assez / c'est pas un pb si c'est fait ainsi" 
 
@@ -112,13 +113,13 @@ utilisé pour suggérer une solution facile/simple
 
 택시를 타==면 돼요== : c'est ok si tu prends le taxi
 
-### A/V-잖아(요)
+## A/V-잖아(요)
 
 ajouté au verbe ou adjectif pour rappeler aux autres ce qu'ils savent déjà
 
 이 시간에는 같이 복잡하==잖아요== : c'est compliqué en ce moment
 
-### V-(으)려고
+## V-(으)려고
 
 signifie "afin de" : utilisé pour indiquer qu'on a l'intention / prévoit une certaine action
 
@@ -126,7 +127,7 @@ signifie "afin de" : utilisé pour indiquer qu'on a l'intention / prévoit une c
 
 afin de partir en vacances, j'ai réservé un billet d'avion
 
-### 만
+## 만
 
 seulement
 

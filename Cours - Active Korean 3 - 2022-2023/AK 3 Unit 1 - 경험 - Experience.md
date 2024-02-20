@@ -35,7 +35,7 @@ tags: 경험
 
 
 
-### Counting words of days
+### Counting days
 
 | Coréen | Français|
 |--------|-------- |

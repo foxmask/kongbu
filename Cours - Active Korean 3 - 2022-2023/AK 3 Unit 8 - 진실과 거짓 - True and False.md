@@ -6,6 +6,7 @@ keywords: 진실 거짓
 tags: 
  - 진실
  - 거짓
+ - 것 같아요
 ---
 
 [TOC]
@@ -92,6 +93,7 @@ exprime le souhait de celui qui parle à propos d'un accident ou une condition
 
 #### verbe
 
+* 것 같아요
 * présent V-는 것 같다
 * passé    V-(으)ㄴ 것 같다
 * futur     V-(으)ㄹ 것 같다
