@@ -8,10 +8,8 @@ tags:
   - couleur
 ---
 # AK 2 Unit 9 - 쇼핑 - Shopping
-```toc
+```table-of-contents
 ```
-
-[TOC]
 
 ## Expressions - 표현
 
@@ -41,18 +39,18 @@ tags:
 
 ### Adjectives
 
-| Coréen | Français |
-| ------ | -------- |
-| 짧다       |  court        |
-| 맛없다       |  sans goût/fade        |
-| 무겁다       |  lourd        |
-| 무섭다       |  appeuré       |
-| 높다       |  haut        |
-| 똑똑하다       |  intelligent        |
-| 낮다       |  bas |
-| 편하다       |  confortable        |
-| 착아다       |  bonne nature  |
-| 힘들다       |  laborieux/difficile |
+| Coréen | Français            |
+| ------ | ------------------- |
+| 짧다     | court               |
+| 맛없다    | sans goût/fade      |
+| 무겁다    | lourd               |
+| 무섭다    | appeuré             |
+| 높다     | haut                |
+| 똑똑하다   | intelligent         |
+| 낮다     | bas                 |
+| 편하다    | confortable         |
+| 착아다    | bonne nature        |
+| 힘들다    | laborieux/difficile |
 
 ### Nouns
 
@@ -68,12 +66,12 @@ tags:
 
 ### Verbs
 
-| Coréen | Français                            |
-| ------ | ----------------------------------- |
-| 찾다       | chercher       |
-| 바꾸다 |        echanger        |
-| 깍다      | to discount |
-| 신다       | to put on (shoes)  |
+| Coréen | Français          |
+| ------ | ----------------- |
+| 찾다     | chercher          |
+| 바꾸다    | echanger          |
+| 깍다     | to discount       |
+| 신다     | to put on (shoes) |
 
 ### Others
 

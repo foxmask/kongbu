@@ -1,12 +1,15 @@
 ---
-title: 🇰🇷 Unit 2 - 인사와 소개 - Insa - Se présenter
-author:FoxMaSk
-date: 2020-12-12
-tags: présentation salutation pays metiers 인사
-toc: Contents
-Style: blue-light
+tags:
+  - présentation
+  - pays
+  - métier
+  - salutations
+  - 인사
+title: 🇰🇷 Unit 2 - 인사와 소개 - Insa
+author: foxmask
+date: 2020-11-20
 ---
-
+ 
 # 🇰🇷 Unit 2 - 인사와 소개 - Insa - Se présenter
 
 

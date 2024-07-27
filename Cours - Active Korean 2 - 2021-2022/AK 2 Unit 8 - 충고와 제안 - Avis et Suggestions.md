@@ -7,10 +7,8 @@ tags:
   - 충고와 제안
 ---
 # AK 2 Unit 8 - 충고와 제안 - Avis et Suggestions
-```toc
+```table-of-contents
 ```
-
-[TOC]
 
 ## Expressions - 표현
 

@@ -7,10 +7,9 @@ tags:
   - 이유
 ---
 # AK 2 Unit 3 - 이유 - Raisons
-```toc
+```table-of-contents
 ```
 
-[TOC]
 
 ## Expressions - 표현
 
@@ -54,29 +53,29 @@ tags:
 
 ### Verbs
 
-| Coréen          | Français   |
-| --------------- | ---------- |
-| 끝내다          | finir |
-| 치다          | jouer / frapper     |
-| 찍다          | prendre en photo |
-| 들다             | etre contenu    |
-| 바이올린을 켜다 | jouer du violon       |
+| Coréen   | Français         |
+| -------- | ---------------- |
+| 끝내다      | finir            |
+| 치다       | jouer / frapper  |
+| 찍다       | prendre en photo |
+| 들다       | etre contenu     |
+| 바이올린을 켜다 | jouer du violon  |
 
 
 ### Adjectives
 
-| Coréen          | Français |
-| --------------- | -------- |
-| 맵다      | épicé    |
-| 촙다            | froid    |
-| 시끄럽다            | bruyant  |
-| 많다         | beaucoup |
-| 피곤하다 | fatigué  |
-| 덥다                | chaud    |
-| 미안하다                | désolé   |
-| 쉽다                | facile   |
-| 작다                | petit    |
-| 어렵다                | difficile         |
+| Coréen | Français  |
+| ------ | --------- |
+| 맵다     | épicé     |
+| 촙다     | froid     |
+| 시끄럽다   | bruyant   |
+| 많다     | beaucoup  |
+| 피곤하다   | fatigué   |
+| 덥다     | chaud     |
+| 미안하다   | désolé    |
+| 쉽다     | facile    |
+| 작다     | petit     |
+| 어렵다    | difficile |
 
 
 ### Others

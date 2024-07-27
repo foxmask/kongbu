@@ -2,12 +2,10 @@
 title: AK 3 Unit Unit 4 - 유행 - Fashion
 author: foxmask
 date: 2023-01-07
-keywords: 유행
-Tags: 유행
+tags:
+  - 유행
 ---
-
-[TOC]
-```toc
+```table-of-contents
 ```
 
 # AK 3 Unit 4 - 유행 - Fashion
@@ -22,9 +20,6 @@ Tags: 유행
 | 이런 머리는 유행이에요     | This hair style is fashion          |
 | 요즘 유행하는 스타일이에요 | This style is in fashion these days |
 | 요즘 이 영화가 인가이에요  | This move is popular these days     |
-
-
-
 ## Vocabulary - 어휘
 
 ### Words related to beauty salon
@@ -37,7 +32,6 @@ Tags: 유행
 | 다듬다   | to trim  (couper)                    |
 | 파미하다 | to have one's hair permed    |
 | 됫머리   | hair on the back of the head |
-
 ### Words related to fashion
 
 | Coréen   | Français         |
@@ -48,7 +42,6 @@ Tags: 유행
 | 인가     | popularity       |
 | 멋쟁이   | smart dresser    |
 | 목걸이   | necklace         |
-
 ### Nouns
 
 | Coréen     | Français                              |
@@ -66,28 +59,25 @@ Tags: 유행
 | 아리랑     | Ariang (Korean traditional folk song) |
 | 시험공부   | study for a test                      |
 | 밥값       | price for a meal / food cost          |
-
 ### Verbs
 
-| Coréen   | Français               |
-| -------- | ---------------------- |
-| 예매하다 | to purchase in advance |
-| 알아보다 | to check               |
-| 아끼다   | to economize           |
-
+| Coréen | Français               |
+| ------ | ---------------------- |
+| 예매하다   | to purchase in advance |
+| 알아보다   | to check               |
+| 아끼다    | to economize           |
 ### Adjectives
 
-| Coréen     | Français       |
-| ---------- | -------------- |
-| 늦다       | late           |
-| 귀엽다     | cute           |
-| 자연스럽다 | natural        |
+| Coréen | Français       |
+| ------ | -------------- |
+| 늦다     | late           |
+| 귀엽다    | cute           |
+| 자연스럽다  | natural        |
 | 친절하다   | kind           |
 | 조용하다   | quiet          |
-| 진하다     | dark / strong  |
+| 진하다    | dark / strong  |
 | 깔끔하다   | neat (soigné)  |
-| 멋있다     | nice / stylish |
-
+| 멋있다    | nice / stylish |
 ### Others
 
 | Coréen | Français           |
@@ -97,66 +87,51 @@ Tags: 유행
 | 벌써   | already  (이미)    |
 | 저기   | there              |
 | 그런   | such / that sort of |
-
 ### Worlds that go together
 
 | Coréen      | Français             |
 | ----------- | -------------------- |
 | 사 오다     | to buy and come      |
 | 마음에 들다 | to catch one's fancy |
-
 ## Grammaire
 
 ### V-는 N
 
-pour modifier un nom en verbe au présent
+pour modifier un nom en verbe au présent (veut dire que / qui )
 
-재민 씨가 학교에 다녀요 + 그 학교는 서울도학교예요 -> 재민 씨까 다니는 학교는 서울대학교예요
+재민 씨가 학교에 ==다녀==요 + 그 학교는 서울도학교예요 -> 재민 씨까 ==다니는== 학교는 서울대학교예요
 
 다니다 = aller frequement / frequenter (ecole / travail)
 
-L'école que fréquente jemin est l'université de Séoul
-
-Xxxx que / qui yyy est zzz
-
+L'école ==que== fréquente jemin est l'université de Séoul
 
 ### A-게
 
 en ajoutant 게 au verbe, il devient un adverbe
 
 예쁘다 -> 예쁘게
-
-
+est joli -> joliment
 
 ### V-(으)러 가다/오다
 
-pour exprimer la raison pour laquel on va ou vient dans le lieu
-
-
+pour exprimer la raison pour laquelle on va ou vient dans le lieu
 
 ### N처럼
 
 "comme"
 
-est ajouté au nom pour décrire qqchose d'indentique ou smiliaire
+est ajouté au nom pour décrire qqchose d'identique ou smilliaire
 
+### 어떤 N
 
-
-###   어떤 N
-
-pour demander la caracteristique d'une personne objet etc
-
-
+pour demander la caractéristique d'une personne objet etc
 
 ### V-(으)ㄹ게요    
 
 est utilisé à la premiere personne pour exprimer l'intention de celui qui parle. ne peut etre utilise pour poser une question
 
 * 사다 -> 살게요  
-
 * 먹다 -> 먹을게요
-
-
 
 ## Additional Expressions
 

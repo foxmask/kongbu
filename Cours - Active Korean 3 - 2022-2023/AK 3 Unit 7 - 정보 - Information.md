@@ -2,12 +2,10 @@
 title: AK 3 Unit Unit 7 - 정보 - Information
 author: foxmask
 date: 2023-07-01
-keywords: 정보
-tags: 정보
+tags:
+  - 정보
 ---
-
-[TOC]
-```toc
+```table-of-contents
 ```
 
 # AK 3 Unit 7 - 정보 - Information
@@ -22,7 +20,6 @@ tags: 정보
 | 직원과 경찰이 왔다   | The staff and a police officer came         |
 | 내일 일찍 일어나서 회사에 갈 것이다 | I'll get up early tomorrow and got to work  |
 | 남저 일음을 말하지 않았다| The man didn't tell this name                                            |
-
 ## Vocabulary - 어휘
 
 ### Vocabulary related to holidays
@@ -34,9 +31,6 @@ tags: 정보
 | 음력 |The lunar calendar|
 | 떡국 |ddeokguk (rice cake soup)|
 |명절| holiday|
-
-  
-
 ### Vocabulary related to movement
 
 | Coréen   | Français |
@@ -46,7 +40,6 @@ tags: 정보
 | 내려오다 | to come down         |
 | 돌아오다 | to come back        |
 | 들아오다         |  to come in        |
-
 ### Nouns
 
 | Coréen | Français           |
@@ -73,41 +66,34 @@ tags: 정보
 | 앨리베이터       | elevator           |
 | 글       | writing            |
 | 선물       | gift               |
-
 ### Verbs
-
 
 | Coréen | Français            |
 | ------ | ------------------- |
-| 오르다       | to go up (price)    |
-| 지각하다       | to be late          |
-| 구하다       | to save             |
-| 물어보다       | to ask              |
-| 끄다       | to turn off         |
-| 꺼지다       | to be put out       |
-| 주차하다       | to park             |
-| 점검하다       | to inspect to check |
-|        |                     |
-
+| 오르다    | to go up (price)    |
+| 지각하다   | to be late          |
+| 구하다    | to save             |
+| 물어보다   | to ask              |
+| 끄다     | to turn off         |
+| 꺼지다    | to be put out       |
+| 주차하다   | to park             |
+| 점검하다   | to inspect to check |
 ### Adjectives
 
 | Coréen | Français             |
 | ------ | -------------------- |
-| 떡떡하다       | clever / bright      |
-| 밤늦다       | late at night        |
-| 용감하다       | brave                |
-| 젊다       | young                |
-| 오룹다        | lonely               |
-| 고맙다       | grateful/appriciated | 
-
+| 떡떡하다   | clever / bright      |
+| 밤늦다    | late at night        |
+| 용감하다   | brave                |
+| 젊다     | young                |
+| 오룹다    | lonely               |
+| 고맙다    | grateful/appriciated |
 ### Others
 
 | Coréen | Français                  |
 | ------ | ------------------------- |
-|   모     | a certain person / Mr X   |
-|   간단히     | simply / easily / briefly |
-|        |                           |
-
+| 모      | a certain person / Mr X   |
+| 간단히    | simply / easily / briefly |
 ### Worlds that go together
 
 | Coréen | Français                |
@@ -116,7 +102,6 @@ tags: 정보
 | 불을 끄다       | to put out a fire       |
 | 수업을 듣디       | to take a class         |
 | 불이 꺼지다       | to get a fire put out                        |
-
 ## Grammaire
 
 ### A-다 , V- ㄴ 다/는다    N(이)다
@@ -132,7 +117,7 @@ utiliser pour donner des explications sur un état
 "etat" au futur
 
 ### S-아서/어서 S
-pour connecter 2 phrases qd la 1° partie est tres liée à la 2°
+pour connecter 2 phrases qd la 1° partie est très liée à la 2°
 
 ### N와/과 N
 
@@ -149,8 +134,6 @@ Mais avec ce registre ça donne
 
 * Nom finissant par voyelle + 와
 * Nom finissant par consonne + 과
-
-
 
 ### A/V - 지 않다
 

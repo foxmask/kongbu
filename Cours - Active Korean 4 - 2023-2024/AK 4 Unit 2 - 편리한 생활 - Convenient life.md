@@ -1,26 +1,33 @@
 ---
 title: AK 4 Unit 2 - 편리한 생활 - Convenient life
-author: foxmask
+author:
+  - foxmask
 date: 2023-11-18
-keywords: 편리한 생활
 tags:
   - 편리한
   - 생활
+  - 려고
+  - 해요
+  - 면서
+  - 면
+  - 되다
+  - 잖아
+  - 려고
+  - 만
 ---
 # AK 4 Unit 2 - 편리한 생활 - Convenient life
-[TOC]
-```toc
+
+```table-of-contents
 ```
-# Expressions - 표현
+## Expressions - 표현
 
 * Expressing intentions: 의도 표현하기
 * Expressing simultaneous actions: 동시 동작 표현하기
 * Suggesting solutions:  헤결 방안 제시하기
 * Reminding others about what they already know:  상대방이 알고 있는 사실 상기시키기
 
-# Vocabulary - 어휘
-
-## vocabulary related to tools
+## Vocabulary - 어휘
+### vocabulary related to tools
 
 | Coréen | Français           |
 | ------ | ------------------ |
@@ -39,8 +46,7 @@ tags:
 | 채팅       | chat internet      |
 | 사이트       | site web           |
 | 라디오       | radio                   |
-
-### Noms
+## Noms
 
 | Coréen | Français             |
 | ------ | -------------------- |
@@ -63,41 +69,35 @@ tags:
 
 | Coréen | Français             |
 | ------ | -------------------- |
-|  씻다      | laver                |
-|  비교하다      | comparer             |
-|  절약하다      | économiser             |
-|  확인하다      | vérifier / certifier |
-|  잊어버리다      | oublier              |
-|  걸다      | faire un appel       |
-
+| 씻다     | laver                |
+| 비교하다   | comparer             |
+| 절약하다   | économiser           |
+| 확인하다   | vérifier / certifier |
+| 잊어버리다  | oublier              |
+| 걸다     | faire un appel       |
 ## Autres
 
 | Coréen | Français                 |
 | ------ | ------------------------ |
 | 직접   | en personne, directement |
 | 전자       | ancien                          |
-
 ## Worlds that go together
 
 | Coréen | Français |
 | ------ | -------- |
 | 전화를 걸다       | faire un appel         |
+## Grammaire
 
-# Grammaire
-
-## V-(으)려고 하다
+### V-(으)려고 하다
 
 ajouté pour indiquer que la personne à l'intention de faire qqchose
 
 주말에 영화를 보==려고 해요== 
 
 ce weekend je prévois d'aller voir un film
+![](Cours/Unit%202/2023_11_18-regle-으-려고-하다-avoir-le-projet-de.png)
 
-![](Cours/Unit 2/2023-12-02-려고-1.png)
-
-![](Cours/Unit 2/2023-12-02-려고-2.png)
-
-## V-(으)면서
+### V-(으)면서
 
 pour indiquer que les 2 propositions arrivent en même temps
 
@@ -105,21 +105,20 @@ pour indiquer que les 2 propositions arrivent en même temps
 
 je conduis + j'écoute la musique = en conduisant j'écoute la musique
 
-## V-(으)면 되다
-
+### V-(으)면 되다
 signifie "c'est ok / c'est assez / c'est pas un pb si c'est fait ainsi" 
 
 utilisé pour suggérer une solution facile/simple
 
 택시를 타==면 돼요== : c'est ok si tu prends le taxi
 
-## A/V-잖아(요)
+### A/V-잖아(요)
 
 ajouté au verbe ou adjectif pour rappeler aux autres ce qu'ils savent déjà
 
 이 시간에는 같이 복잡하==잖아요== : c'est compliqué en ce moment
 
-## V-(으)려고
+### V-(으)려고
 
 signifie "afin de" : utilisé pour indiquer qu'on a l'intention / prévoit une certaine action
 
@@ -127,7 +126,7 @@ signifie "afin de" : utilisé pour indiquer qu'on a l'intention / prévoit une c
 
 afin de partir en vacances, j'ai réservé un billet d'avion
 
-## 만
+### 만
 
 seulement
 

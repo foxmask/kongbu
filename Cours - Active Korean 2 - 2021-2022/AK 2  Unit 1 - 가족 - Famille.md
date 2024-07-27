@@ -7,10 +7,9 @@ tags:
   - 가족
 ---
 # AK 2 Unit 1 - 가족 - Famille
-```toc
+```table-of-contents
 ```
 
-[TOC]
 
 ## Expressions - 표현
 

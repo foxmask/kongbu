@@ -7,10 +7,9 @@ tags:
   - 교통
 ---
 # AK 2 Unit 2 - 교통 - Transports
-```toc
-```
 
-[TOC]
+```table-of-contents
+```
 
 ## Expressions - 표현
 
@@ -37,13 +36,13 @@ tags:
 
 ### Vocabulary related to transportation
 
-| Coréen       | Français                   |
-| ------------ | -------------------------- |
-| 타다         | to get on / to ride        |
-| 갈아타다 | to transfer                |
-| 호손       | subway line number         |
-| 번         | counting unit after number |
-| 내리다             | to get off                 |
+| Coréen | Français                   |
+| ------ | -------------------------- |
+| 타다     | to get on / to ride        |
+| 갈아타다   | to transfer                |
+| 호손     | subway line number         |
+| 번      | counting unit after number |
+| 내리다    | to get off                 |
 
 ### Subway stations
 

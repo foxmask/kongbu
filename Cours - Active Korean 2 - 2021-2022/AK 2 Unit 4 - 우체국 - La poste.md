@@ -6,10 +6,9 @@ date: 2020-09-02
 tags:  우체국 일 compter jours 보름 durée 
 ---
 # AK 2 Unit 4 - 우체국 - La poste
-```toc
+```table-of-contents
 ```
 
-[TOC]
 
 ## Expressions - 표현
 
@@ -73,11 +72,11 @@ tags:  우체국 일 compter jours 보름 durée
 
 ### Worlds that go together
 
-| Coréen | Français               |
-| ------ | ---------------------- |
-| 눈이 오디       | to snow      |
-| 비가 오디       | to rain                 |
-| 여행을 가다       | to take a trip/ to go on a trip    |
+| Coréen | Français                        |
+| ------ | ------------------------------- |
+| 눈이 오디  | to snow                         |
+| 비가 오디  | to rain                         |
+| 여행을 가다 | to take a trip/ to go on a trip |
 
 ## Additional Expressions
 

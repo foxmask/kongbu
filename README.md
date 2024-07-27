@@ -1,2 +1,2 @@
-# kongbu
-etudes de coréen 
+# kongbu - 궁부하다
+études de coréen 

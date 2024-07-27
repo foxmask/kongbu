@@ -2,12 +2,10 @@
 title: AK 3 Unit 1 - 경험 - Experience
 author: foxmask
 date: 2022-09-07
-keywords: 경험 
-tags: 경험
+tags:
+  - 경험
 ---
-
-[TOC]
-```toc
+```table-of-contents
 ```
 
 # AK 3 Unit 1 - 경험 - Experience
@@ -32,9 +30,6 @@ tags: 경험
 | 신가포르 |  Singapore|
 | 천안문  | Tienanmen Gate |
 |  루브르 박물관  | National Museum of Louvre|
-
-
-
 ### Counting days
 
 | Coréen | Français|
@@ -49,9 +44,6 @@ tags: 경험
 | 여드레 | eight days|
 | 아흐레 | nine days|
 | 열흘 | ten days|
-
-
-
 ### Food
 
 | Coréen | Français|
@@ -60,9 +52,6 @@ tags: 경험
 | 스시 | sushi|
 | 닭갈비 | dakgalbi |
 | 돼지고기 | pork|
-
-
-
 ### Nouns
 
 | Coréen | Français|
@@ -84,43 +73,35 @@ tags: 경험
 | 출장 | business trip|
 | 식사 | meal|
 | 옛날 | jadis |
-
-
 ### Verbs
 
-| Coréen | Français|
-|--------|-------- |
-| 입원하다 |to go to the hospital / be hospitalized|
-| 돌아가시다 |to pass away|
-| 갔다 오다 | to have been to (a place)|
-| 조심하다 | to watch out|
-| 꾸다 | to dream (a dream)|
-| 울다 | to cry|
-| 떨어지다 | to fail|
-| 고르다 | to choose/select|
-| 잃어버리다 | to lose|
-| 돌아가다 | to go back/ return|
-| 시키다 | to order|
-| 나오다 |to appear|
-| 헤어지다 | to part/ break up|
-| 등산하다 | to climb a mountain|
-
-
-
+| Coréen | Français                                |
+| ------ | --------------------------------------- |
+| 입원하다   | to go to the hospital / be hospitalized |
+| 돌아가시다  | to pass away                            |
+| 갔다 오다  | to have been to (a place)               |
+| 조심하다   | to watch out                            |
+| 꾸다     | to dream (a dream)                      |
+| 울다     | to cry                                  |
+| 떨어지다   | to fail                                 |
+| 고르다    | to choose/select                        |
+| 잃어버리다  | to lose                                 |
+| 돌아가다   | to go back/ return                      |
+| 시키다    | to order                                |
+| 나오다    | to appear                               |
+| 헤어지다   | to part/ break up                       |
+| 등산하다   | to climb a mountain                     |
 ### Adjectives
 
-| Coréen | Français|
-|--------|-------- |
-| 유명하다 | famous|
-| 짜다 | salty|
-| 기쁘다 | joyful / delightful / happy|
-| 틀리다 | wrong|
-| 즐겁다 | enjoyable / merry|
-| 어리다 | young|
-| 가깝다 | close / near|
-
-
-
+| Coréen | Français                    |
+| ------ | --------------------------- |
+| 유명하다   | famous                      |
+| 짜다     | salty                       |
+| 기쁘다    | joyful / delightful / happy |
+| 틀리다    | wrong                       |
+| 즐겁다    | enjoyable / merry           |
+| 어리다    | young                       |
+| 가깝다    | close / near                |
 ### Others
 
 | Coréen | Français|
@@ -141,36 +122,24 @@ tags: 경험
 | 돌 |pierre|
 | 호수 |lac|
 | 표 |table|
-
-
-
 ### Worlds that go together
 
 | Coréen | Français|
 |--------|-------- |
 |  꿈을 꾸다 |to dream a dream|
-
-  
-
 ## Grammaire
 
 ### V - 아/어 봤어요
 
-utilisé pour demander si on a deja **essayé** de "V"
-
-
+utilisé pour demander si on a déjà **essayé** de "V"
 
 ### V - 아/어 보다 
 
 utilisé pour exprimer la tentative d'avoir fait qqchose
 
-
-
 ### 못 V - 아/어 봤어요
 
 utilisé pour dire qu'on n'a jamais fait / jamais essayé
-
-
 
 ### N은/는요?
 
@@ -178,29 +147,21 @@ utilisé pour demander la même chose à son interlocuteur
 
 et toi / vous ?
 
-
-
 ### V-(으)ㄴ 적(이) 있다/업다
 
-utilisé pour dire si on a deja fait **l'experience** de "V"
+utilisé pour dire si on a déjà fait **l'expérience** de "V"
 
 ==[-(으)ㄴ 적(이) 있다/업다](https://korean.stackexchange.com/questions/1926/what-is-the-difference-between-v%ec%9c%bc%e3%84%b4-%ec%a0%81%ec%9d%b4-%ec%9e%88%eb%8b%a4-and-v%ec%95%84-%ec%96%b4-%eb%b3%b4%eb%8b%a4#1927)==
-
-
 
 ### A/V-았/었을 때
 
 utilisé pour décrire un moment où l'action a eu lieue
-
-
 
 ### N 전에/후에
 
 전에 signifie "ago"
 
 후에 signifie after the time
-
-
 
 ## Additional Expressions
 

@@ -2,9 +2,11 @@
 title: 🇰🇷 Unit 3 - 식당 - Restaurant
 author: FoxMaSk
 date: 2020-12-03
-tags: restaurant classificateur 분류 식당
-toc: Contents
-Style: blue-ligh
+tags:
+  - restaurant
+  - classificateur
+  - 분류
+  - 식당
 ---
 
 # 🇰🇷 Unit 3 - 식당 - Restaurant

@@ -2,27 +2,22 @@
 title: AK 3 Unit Unit 5 - 고장 - Out of order
 author: foxmask
 date: 2023-02-18
-keywords: 고장
-tags: 고장
+tags:
+  - 고장
 ---
-
-[TOC]
-```toc
+```table-of-contents
 ```
-
-
 
 # AK 3 Unit 5 - 고장 - Out of order
 
 ## Expressions - 표현
 
-| Coréen                    | Français                     |
-| ------------------------- | ---------------------------- |
-| 왜 그래?                  | what's the matter            |
-| 그냥 재로 사자            | let's buy a new one          |
-| 컴퓨터가 고장 났어        | the computer is out of order |
+| Coréen         | Français                     |
+| -------------- | ---------------------------- |
+| 왜 그래?          | what's the matter            |
+| 그냥 재로 사자       | let's buy a new one          |
+| 컴퓨터가 고장 났어     | the computer is out of order |
 | 서비스 센터에 전화해 볼게 | i'll call the service center |
-|                           |                              |
 
 ## Vocabulary - 어휘
 
@@ -40,20 +35,18 @@ tags: 고장
 | 접수증        | receipt                             |
 | 접수 번호     | receipt number                      |
 | 접수 일시     | the time and date of receipt        |
-
 ### Machines
 
 | Coréen | Français             |
 | ------ | -------------------- |
-| 컴퓨터 | computer             |
-| 히터   | heater               |
-| 카세트 | cassette tape player |
-| 비디오 | video player         |
-| 프린터 | printer              |
-| 정수기 | water purifier       |
-| 에어컨 | air conditioner      |
-| 노트북 | laptop computer      |
-
+| 컴퓨터    | computer             |
+| 히터     | heater               |
+| 카세트    | cassette tape player |
+| 비디오    | video player         |
+| 프린터    | printer              |
+| 정수기    | water purifier       |
+| 에어컨    | air conditioner      |
+| 노트북    | laptop computer      |
 ### Nouns
 
 | Coréen    | Français                 |
@@ -87,55 +80,49 @@ tags: 고장
 | 운전면허  | driver's license         |
 | 실수      | mistake                  |
 | 사고      | accident                 |
-
 ### Verbs
 
-| Coréen      | Français           |
-| ----------- | ------------------ |
-| 되다        | to be recorded     |
-| 들리다      | to be heard        |
-| 빌리다      | to borrow          |
-| 얼다        | to freeze          |
-| 버리다      | to throw away      |
-| 가지고 가다 | to take along   emporter    |
-| 갚다        | to pay back        |
-| 들다        | to cost / to take  |
-| 따다        | to get / to obtain |
-| 축하하다    | to congratulate    |
-| 돕다        | to help            |
-| 켜다        | to turn on         |
-| 가지다 오다 | to bring   apporter        |
-| 외우다      | to memorize        |
-
+| Coréen | Français                 |
+| ------ | ------------------------ |
+| 되다     | to be recorded           |
+| 들리다    | to be heard              |
+| 빌리다    | to borrow                |
+| 얼다     | to freeze                |
+| 버리다    | to throw away            |
+| 가지고 가다 | to take along   emporter |
+| 갚다     | to pay back              |
+| 들다     | to cost / to take        |
+| 따다     | to get / to obtain       |
+| 축하하다   | to congratulate          |
+| 돕다     | to help                  |
+| 켜다     | to turn on               |
+| 가지다 오다 | to bring   apporter      |
+| 외우다    | to memorize              |
 ### Adjectives
 
-| Coréen   | Français                     |
-| -------- | ---------------------------- |
-| 이상하다 | strange / unsual             |
-| 느리다   | slow                         |
-| 불편하다 | uncomfortable / inconvenient |
-| 쇠송하다 | sorry                        |
-
+| Coréen | Français                     |
+| ------ | ---------------------------- |
+| 이상하다   | strange / unsual             |
+| 느리다    | slow                         |
+| 불편하다   | uncomfortable / inconvenient |
+| 쇠송하다   | sorry                        |
 ### Others
 
 | Coréen | Français                           |
 | ------ | ---------------------------------- |
-| 너     | you                                |
-| 응     | yes                                |
-| 아니   | no                                 |
-| 자꾸   | frequently                         |
-| 여보   | darling                            |
-| 그냥   | as it is /  just                   |
-| 당신   | you                                |
-| 이따가 | a little later                     |
-| 미리   | in advance                         |
-| 계속   | continuously                       |
-| 새     | new                                |
-| 금방   | just right now / just a moment ago |
-|        |                                    |
-
+| 너      | you                                |
+| 응      | yes                                |
+| 아니     | no                                 |
+| 자꾸     | frequently                         |
+| 여보     | darling                            |
+| 그냥     | as it is /  just                   |
+| 당신     | you                                |
+| 이따가    | a little later                     |
+| 미리     | in advance                         |
+| 계속     | continuously                       |
+| 새      | new                                |
+| 금방     | just right now / just a moment ago |
 ### Worlds that go together
-
 
 | Coréen          | Français                                     |
 | --------------- | -------------------------------------------- |
@@ -147,7 +134,6 @@ tags: 고장
 | 돈이 들다       | to cost money                                |
 | 운전면허를 따다 | to obtain a driver's license                 |
 | 사고가 나다     | to get into an accident                      |
-
 ## Grammaire
 
 ### Present A/V-아/어 - N-(이)야
@@ -159,41 +145,29 @@ tags: 고장
   * 학교 -> 학교야
   * 책 -> 책이야
 
- 
-
 ### Past A/V-았/었어
 
 * verbe :
   * 먹었어요 -> 먹었어
-
-
 
 ### Future V-(으)ㄹ게 - A/V-(으)ㄹ 거야
 
 * verbe :
   * 갈게요 -> 갈게 / 갈 거예요 -> 갈 거야
 
-
-
 ### Imperatif V-아/어
 
 가요 -> 가 - 읽어요 -> 읽어
 
-
-
 ### Suggestion V-자
 
 같이 가요 -> 같이 가자 - 같이 읽어요 -> 같이 읽자
-
-
 
 ### modifier un nom en verbe au passé V-(으)ㄴ N
 
 * 지난주에 컴퓨터를 **샀어요**. 그 컴퓨터가 고장이 나었요 -> 지난달에 **산** 컴퓨터 고장이 나었요
 * 사다 **산**
 * 먹다 먹**은**
-
-
 
 ### modifier un nom en verbe au future V-(으)ㄹ N
 

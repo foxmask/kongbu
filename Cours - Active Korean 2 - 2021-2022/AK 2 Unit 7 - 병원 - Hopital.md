@@ -7,10 +7,8 @@ tags:
   - 병원
 ---
 # AK 2 Unit 7 - 병원 - Hopital
-```toc
+```table-of-contents
 ```
-
-[TOC]
 
 ## Expressions - 표현
 

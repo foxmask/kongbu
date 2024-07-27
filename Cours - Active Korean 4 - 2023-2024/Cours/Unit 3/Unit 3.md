@@ -1,12 +1,12 @@
 ---
-toc: content
 tags:
   - 사건
   - 사고
 title: Unit 3 Incidents and Accidents 사건 사고
 ---
+```table-of-contents
+```
 ## 2024-01-13
-
 ### ~ 대 요
 
 présent
@@ -129,21 +129,18 @@ exemple : la vitamine A est bonne pour les yeux
 ![](2024-02-03-%20지%20알다%20모르다%2019.png)
 
 ## 2024-02-10
+### compréhension écrite
 
 ![](2024-02-10_Unit3_exo%201%20대요.png)
 ![](2024-02-10_Unit3_exo%202%20대요.png)
 ![](2024-02-10_Unit3_exo%203%20대요.png)
-
-
+### compréhension orale
 ![](2024-02-10_Unit3_listening_1.png)
 ![](2024-02-10_Unit3_listening_2.png)
 ![](2024-02-10_Unit3_listening_3.png)
 
-
-
-
 ## 2024-02-17
-
+### compréhension écrite
 
 ![](2024-02-17_Unit3_exo1.png)
 ![](2024-02-17_Unit3_exo2.png)

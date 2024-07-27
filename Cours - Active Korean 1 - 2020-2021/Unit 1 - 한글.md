@@ -2,9 +2,8 @@
 title: 🇰🇷 Unit 1 - 한글 - Hangul
 author: FoxMaSk
 date: 2020-11-22
-tags: alphabet
-toc: Contents
-Style: blue-light
+tags:
+  - alphabet
 ---
 
 #  🇰🇷 Unit 1 - 한글 - Hangul

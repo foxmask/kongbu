@@ -5,10 +5,9 @@ tags:
   - 려고
   - 면돼
   - 젆아요
-Toc: content
 title: AK 4 Unit 2 - 편리한 생활 - Convenient life
 ---
-```toc
+```table-of-contents
 ```
 
 

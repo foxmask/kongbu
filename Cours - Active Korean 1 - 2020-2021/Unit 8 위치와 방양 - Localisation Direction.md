@@ -2,9 +2,31 @@
 title: 🇰🇷 Unit 8 - 위치와 방양 - Localisation Direction
 author: FoxMaSk
 date: 2021-05-22
-tags: 위치와 방양 위 아레 앞 뒤 옆 안 오른쪽 왼쪽 가운데  집안 집빡
-toc: Contents
-Style: blue-light
+tags:
+  - 위치와
+  - 방양
+  - 위
+  - 아레
+  - 앞
+  - 뒤
+  - 옆
+  - 안
+  - 오른쪽
+  - 왼쪽
+  - 가운데
+  - 집안
+  - 집빡
+  - nord
+  - sud
+  - ouest
+  - droite
+  - gauche
+  - devant
+  - derriere
+  - dessus
+  - dessous
+  - milieu
+  - dedans
 ---
 
 # 🇰🇷 Unit 8 - 위치와 방양 - Localisation Direction
@@ -40,122 +62,61 @@ Style: blue-light
 
 
 
-![Unit 8 방향 2205 screenshot_1](Unit 8 방향 2205 screenshot_1.png)
-
-
-
-![Unit 8 방향 2205 screenshot_2](Unit 8 방향 2205 screenshot_2.png)
-
-
-
-![Unit 8 방향 2205 screenshot_3](Unit 8 방향 2205 screenshot_3.png)
-
-
-
-![Unit 8 방향 2205 screenshot_4](Unit 8 방향 2205 screenshot_4.png)
-
-
-
-![Unit 8 방향 2205 screenshot_5](Unit 8 방향 2205 screenshot_5.png)
-
-
-
-![Unit 8 방향  2205 screenshot_6](Unit 8 방향  2205 screenshot_6.png)
-
-
-
-![Unit 8 방향 2205 screenshot_7](Unit 8 방향 2205 screenshot_7.png)
-
-
 
 ### diagonales 
-
-
-
-![Unit 8 방향 2205 screenshot_8](Unit 8 방향 2205 screenshot_8.png)
-
+![](Unit%208%20방향%202205%20screenshot_8.png)
 
 
 ### nord / est / sud / ouest
 
-
-
-![Unit 8 방향 2205 screenshot_9](Unit 8 방향 2205 screenshot_9.png)
-
-
+![](Unit%208%20방향%202205%20screenshot_9.png)
 
 ### loin / pret / de l'autre cote
 
-![Unit 8 방향 2205 screenshot_10](Unit 8 방향 2205 screenshot_10.png)
-
-
-
+![](Unit%208%20방향%202205%20screenshot_10.png)
 
 
 ## 29/05
-
-![Unit 8 방향  2905 screenshot_1](Unit 8 방향  2905 screenshot_1.png)
-
-
-
-![Unit 8 방향  2905 screenshot_2](Unit 8 방향  2905 screenshot_2.png)
-
-
+![](Unit%208%20방향%20%202905%20screenshot_1.png)
+![](Unit%208%20방향%20%202905%20screenshot_2.png)
 
 ### etages
 
-
-
-![Unit 8 방향  2905 screenshot_3](Unit 8 방향  2905 screenshot_3.png)
-
-
-
+![](Unit%208%20방향%20%202905%20screenshot_3.png)
 ### etages et sous sol
 
+![](Unit%208%20방향%20%202905%20screenshot_4.png)
 
+![](Unit%208%20방향%20%202905%20screenshot_5.png)
 
-![Unit 8 방향  2905 screenshot_4](Unit 8 방향  2905 screenshot_4.png)
-
-
-
-### directions
-
-
-
-![Unit 8 방향  2905 screenshot_5](Unit 8 방향  2905 screenshot_5.png) 
-
-
-
-
-
+![](Unit%208%20방향%202205%20screenshot_1.png)
+![](Unit%208%20방향%202205%20screenshot_2.png)
+![](Unit%208%20방향%202205%20screenshot_3.png)
+![](Unit%208%20방향%202205%20screenshot_4.png)
+![](Unit%208%20방향%202205%20screenshot_5.png)
+![](Unit%208%20방향%202205%20screenshot_7.png)
 
 
 ## 05/06
 
 ### etages 
 
-
-
-![Unit 8 방향  0506 screenshot_1](Unit 8 방향  0506 screenshot_1.png)
-
+![](Unit%208%20방향%20%200506%20screenshot_1.png)
+![](Unit%208%20방향%20%200506%20screenshot_2.png)
+![](Unit%208%20방향%20%200506%20screenshot_3.png)
+![](Unit%208%20방향%20%200506%20screenshot_4.png)
+![](Unit%208%20방향%20%200506%20screenshot_5.png)
+![](Unit%208%20방향%20%202205%20screenshot_6.png)
 
 
 ### vers : 로
 
-
-
 * à pieds 걸어서
-
 * en voiture 차로
-
 * en métro 지하절로
-
 * en train 기차로
-
 * en avion 비형기로
-
 * en bus 버스로
-
 
 
 demander son chemin dans la rue

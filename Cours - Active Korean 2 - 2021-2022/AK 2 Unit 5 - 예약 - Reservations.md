@@ -7,10 +7,9 @@ tags:
   - 예약
 ---
 # AK 2 Unit 5 - 예약 - Reservations
-```toc
+```table-of-contents
 ```
 
-[TOC]
 ## Expressions - 표현
 
 | Coréen | Français                            |
@@ -55,15 +54,6 @@ tags:
 | 방콕       | Bangkok         |
 | 러마       | Rome   |
 | 마드리드       | Madrid |
-
-### Verbs
-
-| Coréen | Français                            |
-| ------ | ----------------------------------- |
-|        |        |
-| |                |
-|       |  |
-|        |   |
 
 ### Adjectives 
 
@@ -114,4 +104,3 @@ tags:
 
 * 화불해 주세요 : j'aimerai un remboursement
 * 8시 표로 바꿔 주세요 : je voudrais changer billet pour  à 8 heures
-

@@ -7,10 +7,8 @@ tags:
   - 예의
 ---
 # AK 2 Unit 6 - 예의 - Etiquette
-```toc
+```table-of-contents
 ```
-
-[TOC]
 
 ## Expressions - 표현
 

@@ -2,9 +2,12 @@
 title: 🇰🇷 Unit 5 - 일상생활 - Daily Life
 author: FoxMaSk
 date: 2021-02-14
-tags: conjugaison 이/가 을/를 안 그리고
-toc: Contents
-Style: blue-light
+tags:
+  - conjugaison
+  - 이/가
+  - 을/를
+  - 안
+  - 그리고
 ---
 
 # 🇰🇷 Unit 5 - 일상생활 - Daily Life

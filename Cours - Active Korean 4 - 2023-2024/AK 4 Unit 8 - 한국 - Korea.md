@@ -1,22 +1,19 @@
 ---
 title: AK 4 Unit 8 - 한국 - Korea
 author: foxmask
-date: 2023-09-15
-keywords: 한국 
-tags: 
- - 한국
+date: 2024-09-09
+tags:
+  - 한국
 ---
 # AK 4 Unit 8 - 한국 - Korea
 
-[TOC]
-```toc
+```table-of-contents
 ```
 
 ## Expressions - 표현
 
 | Coréen                          | Français |
 | ------------------------------- | -------- |
-
 
 ## Vocabulary - 어휘
 
@@ -25,12 +22,10 @@ tags:
 | Coréen | Français               |
 | ------ | ---------------------- |
 |        |                        |
-
 ### Verbs
 
 | Coréen | Français                    |
 | ------ | --------------------------- |
-
 
 ### Adjectives
 
@@ -42,12 +37,10 @@ tags:
 | Coréen | Français|
 |--------|-------- |
 
-
 ### Worlds that go together
 
 | Coréen | Français|
 |--------|-------- |
-
 
 ## Grammaire
 

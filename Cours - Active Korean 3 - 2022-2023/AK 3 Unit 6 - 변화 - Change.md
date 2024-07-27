@@ -2,14 +2,11 @@
 title: AK 3 Unit Unit 6 - 변화 - Change
 author: foxmask
 date: 2023-04-01
-keywords: 변화
-Tags: 변화
+tags:
+  - 변화
 ---
-
-[TOC]
-```toc
+```table-of-contents
 ```
-
 
 # AK 3 Unit 6 - 변화 - Change
 
@@ -22,7 +19,6 @@ Tags: 변화
 | 최상급 표현하기         | exprimer un superlatif |
 | 의견 묻기       | demander une opinion ou une conjecture                |
 | 추측 말하기    | spéculation, supposition |
-
 ## Expressions - 표현
 
 | Coréen | Français                       |
@@ -32,8 +28,6 @@ Tags: 변화
 |  뭐가 제일 힘들었어요      | what was the toughest on you ? |
 |  지금은 어때요?      | how is it now?                 |
 |  매운 음식을 좋아하게 됐애요      | i've come to like spicy food |
-
-
 ## Vocabulary - 어휘
 
 ### Nouns
@@ -55,32 +49,26 @@ Tags: 변화
 |   서른     | thirty         |
 |   에베레스트     | Everest        |
 |   세계     | world          |
-
-
 ### Verbs
 
 | Coréen | Français         |
 | ------ | ---------------- |
-|   나가다     | to go out        |
-|   이해하다     | to understand    |
-|   걱정하다     | to worry         |
-|   연습하다     | to practice      |
-|   가입하다     | to join (a club) |
-|   벌다     | to earn           |
-|   졸업하다     | to graduate      |
-|   넘다     | to be over       |
-|   소개하다     | to introduce     |
-
-
+| 나가다    | to go out        |
+| 이해하다   | to understand    |
+| 걱정하다   | to worry         |
+| 연습하다   | to practice      |
+| 가입하다   | to join (a club) |
+| 벌다     | to earn          |
+| 졸업하다   | to graduate      |
+| 넘다     | to be over       |
+| 소개하다   | to introduce     |
 ### Adjectives
 
 | Coréen | Français |
 | ------ | -------- |
-|  시원하다      | cool     |
-|  쌀쌀하다      | chilly   |
-|  뜨겁다      | hot      |
-
-
+| 시원하다   | cool     |
+| 쌀쌀하다   | chilly   |
+| 뜨겁다    | hot      |
 ### Others
 
 | Coréen | Français               |
@@ -90,14 +78,11 @@ Tags: 변화
 | 가장       | most/best              |
 | 아마       | maybe/perhaps/probably |
 | 물론이지요 | of course|
-
-
 ### Worlds that go together
 
 | Coréen | Français      |
 | ------ | ------------- |
 |  돈을 벌다      | to earn money |
-
 ## Grammaire
 
 ### A/V- 네요
@@ -117,7 +102,6 @@ ajouter à un **adjectif**, exprime un changement
 Ajouter à un **verbe**, exprime un changement
 
 가다 -> 가게 되다
-
 
 ### 제일
 
@@ -140,7 +124,6 @@ Utiliser par celui qui parle quand il ne sait pas qqchose ou n'est pas sûr de q
 
 Utiliser par celui qui parle pour exprimer une conjecture , une supposition 
 
-
 ## Additional Expressions
 
 | Coréen | Français |
@@ -157,3 +140,4 @@ Utiliser par celui qui parle pour exprimer une conjecture , une supposition
 | 주름살이 생기다 |avoir des rides          |
 | 퇴직하다 | prendre sa retraite         |
 | 죽다 |   deceder       |
+
